@@ -71,7 +71,3 @@ Program dikompilasi menggunakan `g++` dan diuji dengan beberapa skenario input:
 
 ## 5. Kesimpulan
 Program telah berhasil memenuhi kriteria *autograding* dengan menerapkan manipulasi *struct* waktu. Penggunaan `mktime` terbukti sangat efektif untuk menentukan hari tanpa harus menghitung algoritma kalender secara manual.
-
----
-
-**Tips:** Untuk bagian **Hasil Uji Coba**, pastikan angkanya kamu sesuaikan dengan hasil yang muncul di terminalmu saat memasukkan tanggal tersebut ya! (Angka di atas adalah estimasi berdasarkan waktu sekarang tahun 2026).
